@@ -1,0 +1,43 @@
+.Dashboard{
+    display: flex;
+    flex-direction: row;
+}
+.User{
+    align-items: center;
+    padding-left: 50px;
+    padding-top: 30px;
+    border-color: black;
+    display: flex;
+}
+.card{
+    width: 80vw;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+}
+.ONE{
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+}
+.content112{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    gap: 20px;
+}
+.content12{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    gap: 20px;
+}
+.box12{
+    height: 90%;
+    width: 49%;
+}
+.three{
+    background-image: url(https://i.pinimg.com/originals/bf/03/1b/bf031b6584501ed196337438d36484b5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
