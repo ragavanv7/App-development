@@ -1,0 +1,29 @@
+.main-content{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(12, 9, 9);
+}
+.home{
+    align-items: center;
+    padding-left: 450px;
+    
+}
+table {
+    
+    border-collapse: collapse;
+    width: 100%; 
+    border: 2px solid #333; 
+  }
+  
+  th, td {
+    border: 1px solid #333; /* Add a border to each table cell */
+    padding: 10px; /* Add padding to the cells for spacing */
+    text-align: left; /* Align text to the left in cells */
+  }
+  
+  th {
+    background-color: #f2f2f2; /* Background color for table headers */
+  }
+  .admin{
+    padding: 50px;
+  }
