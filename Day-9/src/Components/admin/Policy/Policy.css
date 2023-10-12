@@ -1,0 +1,26 @@
+.policy-sec h1{
+      color: black;
+      font-size: 24px;
+      text-align: center;
+      margin-top: 20px;
+  }
+  .policy-sec p{
+      color: black;
+      font-size: 15px;
+      text-align: left;
+      margin-left: 300px;
+      text-align: justify;
+  }
+  .policy-sec h2{
+      color: black;
+      font-size: 18px;
+      text-align: center;
+      margin-top: 40px;
+  }
+  .policy-sec ul{
+      list-style:circle;
+      color: black;
+      font-size: 14px;
+      margin-left: 280px;
+      text-align: justify;
+  }
