@@ -1,0 +1,85 @@
+/* Admin.css (Create a separate CSS file) */
+
+.AdminLoginBorder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url("https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif");
+  background-repeat: no-repeat;
+  background-color: rgb(138, 210, 211);
+  
+}
+
+.AdminLoginImageBox {
+  flex: 1;
+  background-size: cover;
+  
+}
+
+.AdminLoginBox-2 {
+  flex: 1;
+  background-color: #dfc3c3;
+  border: 1px solid #e0e0e0;
+  border-radius: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  margin-left: 500px;
+  margin-right: 300px;
+  height: 500px;
+  
+}
+
+.AdminLoginBoxTop {
+  text-align: center;
+  padding: 30px;
+  
+  
+}
+
+.AdminLoginBoxTitle h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.AdminLoginBoxTitle h2 {
+  font-size: 18px;
+  color: #666;
+}
+
+.AdminLoginform input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+.AdminErrorMsg {
+  color: #a31414;
+  font-size: 14px;
+}
+
+button {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.Adminbutton
+{
+  margin-top: 400px;
+}
+
+/* Customize the background image, colors, and other styles according to your design preferences. */
+

@@ -1,0 +1,31 @@
+.In-card
+{
+    background-color: #ead3d3;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  width: 700px;
+  max-height: 2000px;
+  height: 1100px;
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 20px;
+  
+}
+.In-Main{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.In-gen
+{
+  top: 90px;
+}
+.firstName, .lastName {
+  margin-right: 10px; /* Adjust the margin value as needed */
+}
+.In-Det
+{
+  size: 50px;
+}
